@@ -1,0 +1,14 @@
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\bin\Debug\net8.0\Labirinto.exe
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\bin\Debug\net8.0\Labirinto.deps.json
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\bin\Debug\net8.0\Labirinto.runtimeconfig.json
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\bin\Debug\net8.0\Labirinto.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\bin\Debug\net8.0\Labirinto.pdb
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.AssemblyInfo.cs
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\refint\Labirinto.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.pdb
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.genruntimeconfig.cache
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\ref\Labirinto.dll
