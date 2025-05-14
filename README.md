@@ -10,7 +10,8 @@ O caminho sem saída será representado por "X"
 
 Quando o queijo é encontrado:
 
-![image](https://github.com/user-attachments/assets/6d1e5cb8-548f-4222-8257-7cd3a1975d2e)
+![image](https://github.com/user-attachments/assets/4e6ce035-b162-495c-b35c-5b3ad09e3966)
+
 
 Quando o queijo não pode ser encontrado:
 
