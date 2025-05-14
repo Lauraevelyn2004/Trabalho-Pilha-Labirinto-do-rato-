@@ -125,7 +125,7 @@ class Labirinto
         // se achou o queijo
         Console.Clear();
         mostrarLabirinto(labirinto);
-        Console.WriteLine($"\nO ratinho encontrou o queijo  (^-^)/  na posição ({i},{j})!");
+        Console.WriteLine($"\n O ratinho encontrou o queijo na posição ({i},{j}) (^-^) !! ");
 
 
     }

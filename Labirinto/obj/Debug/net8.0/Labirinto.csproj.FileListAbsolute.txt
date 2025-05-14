@@ -12,3 +12,4 @@ C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\o
 C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.pdb
 C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.genruntimeconfig.cache
 C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\ref\Labirinto.dll
+C:\Users\WINDOWS 10\OneDrive\Documents\Linguagens tecnicas\Labirinto\Labirinto\obj\Debug\net8.0\Labirinto.sourcelink.json
