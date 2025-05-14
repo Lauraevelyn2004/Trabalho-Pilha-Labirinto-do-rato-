@@ -1,4 +1,4 @@
-O trabalho consiste na realização de um labirinto onde um rato irá percorre-lo para encontrar um queijo caso não haja caminho disponivel ele terá que dar a volta e continuar a procura:   
+O trabalho consiste na realização de um labirinto onde um rato irá percorre-lo para encontrar um queijo caso não haja caminho disponivel ele terá que dar a volta e continuar a procura caso não tenha como irá aparecer a mensagem de que não foi possivel encontrar o queijo:   
    
 O rato será representado por "V"   
 O queijo que será representado por "Q"  
